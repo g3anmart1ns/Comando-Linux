@@ -1,4 +1,3 @@
-```markdown
 # Exemplos de Uso do Comando `nmap`
 
 1. **Escanear um Host:**
