@@ -1,2 +1,2 @@
-# Comando-Linux
-[AWK](awk)
+# Comandos Linux
+[AWK](awk.md)
