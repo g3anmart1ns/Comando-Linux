@@ -1,4 +1,3 @@
-```markdown
 # Exemplos de Uso do Comando AWK
 
 ## Exibir o conteúdo de um arquivo:
