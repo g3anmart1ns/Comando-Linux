@@ -1,8 +1,6 @@
 
 # Exemplos de Uso do Comando `sed`
 
-## Exemplos de Uso do Comando `sed`:
-
 1. **Substituir uma string em um arquivo e imprimir na tela:**
 ```bash
 sed 's/antiga/nova/' arquivo.txt
