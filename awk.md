@@ -1,5 +1,3 @@
-## Exemplos de uso do comando AWK
-
 ```markdown
 # Exemplos de Uso do Comando AWK
 
