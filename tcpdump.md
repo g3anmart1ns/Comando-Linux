@@ -1,4 +1,4 @@
-# Exemplos de uso do comando ``tcpdump`
+# Exemplos de uso do comando ``tcpdump```
 
 1. **Capturar todos os pacotes em uma interface de rede específica:**
    ```
